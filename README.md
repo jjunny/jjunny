@@ -7,5 +7,5 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjunny&repo=PYPYGAME&theme=nord)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/jjunny/PYPYGAME))
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjunny&repo=project-euler&theme=nord)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/jjunny/project-euler))
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjunny&repo=HT_prediction&theme=nord)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/jjunny/HT_prediction)https://github.com/jjunny/HT_prediction)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjunny&repo=HT_prediction&theme=nord)](https://github.com/jjunny/HT_prediction)
 </div>
